@@ -1,0 +1,11 @@
+# Ignore database files
+*.db
+
+# Ignore CSV files
+*.csv
+
+# Ignore BZ2 compressed files
+*.bz2
+*.zip
+
+.spyproject
